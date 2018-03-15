@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actividad Android 3</string>
+    <string name="title">Conociendo a fondo la EPS</string>
+    <string name="titleLoc">Localizacion</string>
+    <string name="titleWeb">Acceso a la web:</string>
+    <string name="titleTlfC">Tlf. de contacto:  +34 973 702 700</string>
+    <string name="titleTlfS">Tlf. destino:  +34 973 702 700</string>
+    <string name="titleEmail">Email destino: test@udl.cat</string>
+    <string name="urlWeb">http://www.udl.cat</string>
+    <string name="phoneContact">+34973702700</string>
+    <string name="emailContact">test@udl.cat</string>
+
+    <string name="buttonEPS">EPS (Cord)</string>
+    <string name="buttonCall">LLAMAR</string>
+    <string name="buttonMessage">Enviar SMS</string>
+    <string name="buttonEmail">Enviar Correo</string>
+    <string name="buttonGalery">Acceder Galería imágenes</string>
+    <string name="buttonDial">MARCAR</string>
+    <string name="buttonContacts">Acceder a Contactos</string>
+    <string name="buttonWebGoogle">Google</string>
+    <string name="buttonWebUrl">URL</string>
+    <string name="buttonEPS2">EPS (direcc)</string>
+
+    <string name="toastCall">Llamando al telefono de contacto</string>
+    <string name="toastSMS">Enviando SMS al telefono de destino</string>
+    <string name="toastEmail">Enviando correo al correo de destino</string>
+    <string name="toastGallery">Accediendo a la galeria de imagenes</string>
+    <string name="toastLocC">Seleccionado Localizacion por coordenadas</string>
+    <string name="toastLocAd">Seleccionado Localitzacion por dirección</string>
+    <string name="toastWebUrl">Seleccionado acceso a Web (URL)</string>
+    <string name="toastDial">Marcando telefono de contacto</string>
+    <string name="toastContacts">Accediendo a Contactos</string>
+    <string name="toastWebGoogle">Seleccionado acceso a Web (Google)</string>
+</resources>

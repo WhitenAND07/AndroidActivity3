@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android Activity 3</string>
+    <string name="title">Getting to know EPS thoroughly</string>
+    <string name="titleLoc">Localitation</string>
+    <string name="titleWeb">Access of Web:</string>
+    <string name="urlWeb">http://www.udl.cat</string>
+    <string name="titleTlfC">Phone of contact: +34 973 702 700</string>
+    <string name="titleTlfS">Destination phone: +34 973 702 700</string>
+    <string name="titleEmail">Destination email: test@udl.cat</string>
+    <string name="phoneContact">+34973702700</string>
+    <string name="emailContact">test@udl.cat</string>
+
+    <string name="buttonEPS">EPS (Cord)</string>
+    <string name="buttonEPS2">EPS (direcc)</string>
+    <string name="buttonCall">CALL</string>
+    <string name="buttonDial">DIAL</string>
+    <string name="buttonMessage">Send SMS</string>
+    <string name="buttonEmail">Send Email</string>
+    <string name="buttonGalery">Access Gallery images</string>
+    <string name="buttonContacts">Acces Contacts</string>
+    <string name="buttonWebUrl">URL</string>
+    <string name="buttonWebGoogle">Google</string>
+
+
+    <string name="toastLocC">Select Localitation about coordinates</string>
+    <string name="toastLocAd">Select Localitation about address</string>
+    <string name="toastWebUrl">Select Access of Web (URL)</string>
+    <string name="toastWebGoogle">Select Access of Web (Google)</string>
+    <string name="toastCall">Calling the phone contact</string>
+    <string name="toastDial">Dialing the phone contact</string>
+    <string name="toastSMS">Sending SMS to destination phone</string>
+    <string name="toastEmail">Sending Email to destination email</string>
+    <string name="toastContacts">Accessing to Contacts</string>
+    <string name="toastGallery">Accessing to gallery images</string>
+</resources>

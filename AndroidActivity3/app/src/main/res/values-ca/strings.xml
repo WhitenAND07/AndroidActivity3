@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activitat Android 3</string>
+    <string name="title">Coneixent a fons la EPS</string>
+    <string name="titleLoc">Localització</string>
+    <string name="titleWeb">Acces a la web:</string>
+    <string name="titleTlfC">Tlf. de contacte:  +34 973 702 700</string>
+    <string name="titleTlfS">Tlf. de desti:  +34 973 702 700</string>
+    <string name="titleEmail">Email desti: test@udl.cat</string>
+    <string name="urlWeb">http://www.udl.cat</string>
+    <string name="phoneContact">+34973702700</string>
+    <string name="emailContact">test@udl.cat</string>
+
+    <string name="buttonEPS">EPS (Cord)</string>
+    <string name="buttonCall">TRUCAR</string>
+    <string name="buttonMessage">Enviar SMS</string>
+    <string name="buttonEmail">Enviar Correo</string>
+    <string name="buttonGalery">Accedir Galeria imatges</string>
+    <string name="buttonDial">MARCAR</string>
+    <string name="buttonContacts">Accedir a Contactes</string>
+    <string name="buttonWebUrl">URL</string>
+    <string name="buttonWebGoogle">Google</string>
+    <string name="buttonEPS2">EPS (direcc)</string>
+
+    <string name="toastCall">Trucan al numero de contacte</string>
+    <string name="toastSMS">Envian SMS al telefon de destí</string>
+    <string name="toastEmail">Envian correu al email de desti</string>
+    <string name="toastGallery">Accedin a la galeria d\'imatges</string>
+    <string name="toastLocC">Seleccionat Localització per coordenades</string>
+    <string name="toastLocAd">Seleccionat Localització per adreça</string>
+    <string name="toastWebUrl">Seleccionat accés a Web (URL)</string>
+    <string name="toastDial">Marcan telefon de contacte</string>
+    <string name="toastContacts">Accedin a Contactes</string>
+    <string name="toastWebGoogle">Seleccionat acces a Web (Google)</string>
+</resources>
